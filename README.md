@@ -5,4 +5,4 @@ D-LeafIT Corpus is made up of **1819 Italian drug package leaflets crawled from 
 
 For further information and to cite this work refer to:
 
-**Giordano, L., & di Buono, M. P. (2024). Large Language Models as Drug Information Providers for Patients. In Proceedings of CL4HEALTH (PATIENT-ORIENTED LANGUAGE PROCESSING) Workshop @ LREC-COLING 2024.**
+**Giordano, L., & Di Buono, M. P. (2024, May). Large Language Models as Drug Information Providers for Patients. In Proceedings of the First Workshop on Patient-Oriented Language Processing (CL4Health)@ LREC-COLING 2024 (pp. 54-63).**
